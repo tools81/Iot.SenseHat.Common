@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Iot.SenseHat</id>
+    <version>1.0.0</version>
+    <authors>Iot.SenseHat</authors>
+    <owners>Iot.SenseHat</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.0">
+        <dependency id="Iot.Device.Bindings" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\brett.tooley\Source\MyRepos\tools81\Iot.SenseHat.Common\Iot.SenseHat\bin\Release\netcoreapp3.0\Iot.SenseHat.dll" target="lib\netcoreapp3.0\Iot.SenseHat.dll" />
+  </files>
+</package>

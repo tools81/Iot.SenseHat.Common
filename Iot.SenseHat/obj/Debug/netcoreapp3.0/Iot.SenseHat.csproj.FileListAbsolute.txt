@@ -1,0 +1,8 @@
+C:\Users\brett.tooley\Source\MyRepos\tools81\Iot.SenseHat.Common\Iot.SenseHat\bin\Debug\netcoreapp3.0\Iot.SenseHat.deps.json
+C:\Users\brett.tooley\Source\MyRepos\tools81\Iot.SenseHat.Common\Iot.SenseHat\bin\Debug\netcoreapp3.0\Iot.SenseHat.dll
+C:\Users\brett.tooley\Source\MyRepos\tools81\Iot.SenseHat.Common\Iot.SenseHat\obj\Debug\netcoreapp3.0\Iot.SenseHat.csprojAssemblyReference.cache
+C:\Users\brett.tooley\Source\MyRepos\tools81\Iot.SenseHat.Common\Iot.SenseHat\obj\Debug\netcoreapp3.0\Iot.SenseHat.AssemblyInfoInputs.cache
+C:\Users\brett.tooley\Source\MyRepos\tools81\Iot.SenseHat.Common\Iot.SenseHat\obj\Debug\netcoreapp3.0\Iot.SenseHat.AssemblyInfo.cs
+C:\Users\brett.tooley\Source\MyRepos\tools81\Iot.SenseHat.Common\Iot.SenseHat\bin\Debug\netcoreapp3.0\Iot.SenseHat.pdb
+C:\Users\brett.tooley\Source\MyRepos\tools81\Iot.SenseHat.Common\Iot.SenseHat\obj\Debug\netcoreapp3.0\Iot.SenseHat.dll
+C:\Users\brett.tooley\Source\MyRepos\tools81\Iot.SenseHat.Common\Iot.SenseHat\obj\Debug\netcoreapp3.0\Iot.SenseHat.pdb
